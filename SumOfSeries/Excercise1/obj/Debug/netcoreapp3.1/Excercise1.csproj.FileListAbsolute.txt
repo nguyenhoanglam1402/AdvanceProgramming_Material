@@ -1,0 +1,12 @@
+E:\Excercises\SumOfSeries\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.exe
+E:\Excercises\SumOfSeries\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.deps.json
+E:\Excercises\SumOfSeries\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.runtimeconfig.json
+E:\Excercises\SumOfSeries\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.runtimeconfig.dev.json
+E:\Excercises\SumOfSeries\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.dll
+E:\Excercises\SumOfSeries\Excercise1\bin\Debug\netcoreapp3.1\Excercise1.pdb
+E:\Excercises\SumOfSeries\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.AssemblyInfoInputs.cache
+E:\Excercises\SumOfSeries\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.AssemblyInfo.cs
+E:\Excercises\SumOfSeries\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.csproj.CoreCompileInputs.cache
+E:\Excercises\SumOfSeries\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.dll
+E:\Excercises\SumOfSeries\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.pdb
+E:\Excercises\SumOfSeries\Excercise1\obj\Debug\netcoreapp3.1\Excercise1.genruntimeconfig.cache

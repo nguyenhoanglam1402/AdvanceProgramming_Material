@@ -1,0 +1,13 @@
+E:\Excercises\SumOfSeries\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.exe
+E:\Excercises\SumOfSeries\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.deps.json
+E:\Excercises\SumOfSeries\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.json
+E:\Excercises\SumOfSeries\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.runtimeconfig.dev.json
+E:\Excercises\SumOfSeries\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.dll
+E:\Excercises\SumOfSeries\PrimeNumber\bin\Debug\netcoreapp3.1\PrimeNumber.pdb
+E:\Excercises\SumOfSeries\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.csprojAssemblyReference.cache
+E:\Excercises\SumOfSeries\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfoInputs.cache
+E:\Excercises\SumOfSeries\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.AssemblyInfo.cs
+E:\Excercises\SumOfSeries\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.csproj.CoreCompileInputs.cache
+E:\Excercises\SumOfSeries\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.dll
+E:\Excercises\SumOfSeries\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.pdb
+E:\Excercises\SumOfSeries\PrimeNumber\obj\Debug\netcoreapp3.1\PrimeNumber.genruntimeconfig.cache

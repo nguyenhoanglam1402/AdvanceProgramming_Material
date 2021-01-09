@@ -1,0 +1,13 @@
+E:\Excercises\SumOfSeries\StudentList\bin\Debug\netcoreapp3.1\StudentList.exe
+E:\Excercises\SumOfSeries\StudentList\bin\Debug\netcoreapp3.1\StudentList.deps.json
+E:\Excercises\SumOfSeries\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.json
+E:\Excercises\SumOfSeries\StudentList\bin\Debug\netcoreapp3.1\StudentList.runtimeconfig.dev.json
+E:\Excercises\SumOfSeries\StudentList\bin\Debug\netcoreapp3.1\StudentList.dll
+E:\Excercises\SumOfSeries\StudentList\bin\Debug\netcoreapp3.1\StudentList.pdb
+E:\Excercises\SumOfSeries\StudentList\obj\Debug\netcoreapp3.1\StudentList.csprojAssemblyReference.cache
+E:\Excercises\SumOfSeries\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfoInputs.cache
+E:\Excercises\SumOfSeries\StudentList\obj\Debug\netcoreapp3.1\StudentList.AssemblyInfo.cs
+E:\Excercises\SumOfSeries\StudentList\obj\Debug\netcoreapp3.1\StudentList.csproj.CoreCompileInputs.cache
+E:\Excercises\SumOfSeries\StudentList\obj\Debug\netcoreapp3.1\StudentList.dll
+E:\Excercises\SumOfSeries\StudentList\obj\Debug\netcoreapp3.1\StudentList.pdb
+E:\Excercises\SumOfSeries\StudentList\obj\Debug\netcoreapp3.1\StudentList.genruntimeconfig.cache

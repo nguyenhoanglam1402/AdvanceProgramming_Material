@@ -1,0 +1,13 @@
+E:\Excercises\SumOfSeries\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.exe
+E:\Excercises\SumOfSeries\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.deps.json
+E:\Excercises\SumOfSeries\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.runtimeconfig.json
+E:\Excercises\SumOfSeries\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.runtimeconfig.dev.json
+E:\Excercises\SumOfSeries\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.dll
+E:\Excercises\SumOfSeries\SumOfSeries\bin\Debug\netcoreapp3.1\SumOfSeries.pdb
+E:\Excercises\SumOfSeries\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.csprojAssemblyReference.cache
+E:\Excercises\SumOfSeries\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.AssemblyInfoInputs.cache
+E:\Excercises\SumOfSeries\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.AssemblyInfo.cs
+E:\Excercises\SumOfSeries\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.csproj.CoreCompileInputs.cache
+E:\Excercises\SumOfSeries\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.dll
+E:\Excercises\SumOfSeries\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.pdb
+E:\Excercises\SumOfSeries\SumOfSeries\obj\Debug\netcoreapp3.1\SumOfSeries.genruntimeconfig.cache

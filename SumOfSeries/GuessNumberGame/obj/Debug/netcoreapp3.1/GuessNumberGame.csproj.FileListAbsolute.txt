@@ -1,0 +1,13 @@
+E:\Excercises\SumOfSeries\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.exe
+E:\Excercises\SumOfSeries\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.deps.json
+E:\Excercises\SumOfSeries\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.runtimeconfig.json
+E:\Excercises\SumOfSeries\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.runtimeconfig.dev.json
+E:\Excercises\SumOfSeries\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.dll
+E:\Excercises\SumOfSeries\GuessNumberGame\bin\Debug\netcoreapp3.1\GuessNumberGame.pdb
+E:\Excercises\SumOfSeries\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.csprojAssemblyReference.cache
+E:\Excercises\SumOfSeries\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.AssemblyInfoInputs.cache
+E:\Excercises\SumOfSeries\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.AssemblyInfo.cs
+E:\Excercises\SumOfSeries\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.csproj.CoreCompileInputs.cache
+E:\Excercises\SumOfSeries\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.dll
+E:\Excercises\SumOfSeries\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.pdb
+E:\Excercises\SumOfSeries\GuessNumberGame\obj\Debug\netcoreapp3.1\GuessNumberGame.genruntimeconfig.cache
